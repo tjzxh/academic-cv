@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 张小卉
+title: Xiaohui Zhang
 
-# Name pronunciation (optional)
-name_pronunciation: Xiaohui Zhang
+# # Name pronunciation (optional)
+# name_pronunciation: Xiaohui Zhang
 
 # Full name (for SEO)
 first_name: Xiaohui
 last_name: Zhang
 
-# Status emoji
-status:
-  icon: 🎾
+# # Status emoji
+# status:
+#   icon: 🎾
 
 # Is this the primary user of the site?
 superuser: true
