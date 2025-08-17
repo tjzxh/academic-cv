@@ -52,8 +52,6 @@ interests:
 education:
   - area: PhD Transportation
     institution: Tongji University
-    date_start: 2021-09
-    date_end: 2025-09
     summary: |
       Dissertation on _On the Fundamental Diagram Modeling:A Unified Micro-Macro Perspective_. Supervised by [Prof Sun Jian](http//tops.tongji.edu.cn).
     button:
@@ -61,14 +59,10 @@ education:
       url: 'https://example.com'
   - area: MEng Transportation
     institution: Tongji University
-    date_start: 2017-09
-    date_end: 2020-06
     summary: |
       Thesis on _On the Fundamental Diagram Modeling:A Unified Micro-Macro Perspective_. Supervised by [Prof Sun Jian](http//tops.tongji.edu.cn).
   - area: BSc Transportation and Applied Mathematics
     institution: Tongji University
-    date_start: 2013-09
-    date_end: 2017-06
     summary: |
       GPA: 4.5/5.0      
       Minor in Mathematics and Applied Mathematics
