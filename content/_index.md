@@ -19,7 +19,7 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
         color: white
         image:
@@ -37,7 +37,7 @@ sections:
       text: |-
          My research interests include driving behaviors, applying reinforcement learning in autonomous driving and other artificial intelligence applications in traffic.
     design:
-      columns: '2'
+      columns: '3'
   - block: collection
     id: papers
     content:
