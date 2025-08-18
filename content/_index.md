@@ -21,14 +21,14 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
         color: white
         image:
           # Add your image background to `assets/media/`.
           filename: bg.jpg
           filters:
-            brightness: 0.8
+            brightness: 0.6
           size: cover
           position: center
           parallax: false
