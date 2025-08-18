@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "10rem"
+  spacing: "5rem"
 
 sections:
   - block: resume-biography-3
@@ -22,7 +22,7 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
         color: white
         image:
@@ -41,7 +41,7 @@ sections:
       text: |-
          My research interests include driving behaviors, applying reinforcement learning in autonomous driving and other artificial intelligence applications in traffic.
     design:
-      columns: '4'
+      columns: '6'
   - block: collection
     id: papers
     content:
@@ -51,8 +51,8 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
-      columns: 4
+      view: Card
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -62,7 +62,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: Compact
   - block: collection
     id: news
     content:
