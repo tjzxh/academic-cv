@@ -13,20 +13,22 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      title: About Me
+      text: |-
+         My research interests include driving behaviors, applying reinforcement learning in autonomous driving and other artificial intelligence applications in traffic.
       # # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
         color: white
         image:
           # Add your image background to `assets/media/`.
           filename: bg.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.8
           size: cover
           position: center
           parallax: false

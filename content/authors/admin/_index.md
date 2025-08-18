@@ -51,16 +51,16 @@ interests:
 
 education:
   - area: PhD Transportation
-    institution: Tongji University
+    institution: Tongji University & NUS
     summary: |
-      Dissertation on _On the Fundamental Diagram Modeling:A Unified Micro-Macro Perspective_. Supervised by [Prof Sun Jian](http//tops.tongji.edu.cn).
+      Dissertation on _On the Fundamental Diagram Modeling:A Unified Micro-Macro Perspective_. Supervised by [Prof. Sun Jian](http//tops.tongji.edu.cn) and [Prof. Yang Kaidi](https://sites.google.com/view/kaidiyang/).
     button:
       text: 'Forthcoming'
       url: 'https://example.com'
   - area: MEng Transportation
     institution: Tongji University
     summary: |
-      Thesis on _On the Fundamental Diagram Modeling:A Unified Micro-Macro Perspective_. Supervised by [Prof Sun Jian](http//tops.tongji.edu.cn).
+      Thesis on _On the Fundamental Diagram Modeling:A Unified Micro-Macro Perspective_. Supervised by [Prof. Sun Jian](http//tops.tongji.edu.cn).
   - area: BSc Transportation and Applied Mathematics
     institution: Tongji University
     summary: |
