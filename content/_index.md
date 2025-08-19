@@ -51,7 +51,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: List
+      view: Masonry
       columns: 2
   - block: collection
     content:
@@ -62,7 +62,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: Compact
+      view: Masonry
   - block: collection
     id: news
     content:
