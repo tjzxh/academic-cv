@@ -41,7 +41,7 @@ sections:
       text: |-
          My research interests include driving behaviors, applying reinforcement learning in autonomous driving and other artificial intelligence applications in traffic.
     design:
-      columns: '6'
+      columns: '8'
   - block: collection
     id: papers
     content:
@@ -51,8 +51,8 @@ sections:
           - publication
         featured_only: true
     design:
-      view: Masonry
-      columns: 2
+      view: article-grid
+      columns: 8
   - block: collection
     content:
       title: Recent Publications
@@ -62,7 +62,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: Masonry
+      view: Citation
   - block: collection
     id: news
     content:

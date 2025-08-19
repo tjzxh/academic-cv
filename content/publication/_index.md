@@ -3,7 +3,7 @@ title: Publications
 cms_exclude: true
 
 # View.
-view: Masonry
+view: Compact
 
 # Optional header image (relative to `static/media/` folder).
 banner:
