@@ -50,7 +50,7 @@ sections:
           - project
     design:
       view: article-grid
-      columns: 1
+      columns: 3
   - block: collection
     id: papers
     content:
