@@ -51,7 +51,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: Showcase
+      view: List
       columns: 2
   - block: collection
     content:
