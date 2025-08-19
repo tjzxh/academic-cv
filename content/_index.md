@@ -15,7 +15,7 @@ sections:
       username: admin
       title: About Me
       text: |-
-         I am passionate about exploring how emerging technologies such as autonomous vehicles are reshaping the complexity of modern mobility systems, and how individual driving behaviors scale up to influence traffic dynamics.
+         I am passionate about exploring how emerging technologies such as autonomous vehicles are reshaping the complexity of modern mobility systems, and how these individual driving behaviors scale up to influence traffic dynamics.
       # # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
@@ -37,23 +37,20 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
-        My research lies at the intersection of traffic flow theory, data-driven modeling, and autonomous driving, where I aim to uncover the fundamental principles that govern both human–vehicle interactions and system-level traffic flow. 
-        
+      text: |-        
         I have published multiple papers in leading journals such as **Transportation Research Part C** and **Communications in Transportation Research**. My publications have collectively received over **450 citations**.
-
-         My contributions span three core areas:
-         #### Traffic Flow Theory and Complex Systems
-
-         I develop analytical frameworks to establish a general micro-macroscopic modeling approach, bridging stochastic driving behaviors with traffic flow properties (the Stochastic Fundamental Diagram).
-         #### Autonomous Driving and Its Impacts on Traffic
-
-         I investigate the driving behavior and stability of autonomous vehicles. My works not only explore how AVs operate individually but also how they influence traffic flow collectively.
-         #### Artificial Intelligence in Transportation Research
-
-         I use deep learning to reproduce car-following and lane-changing behaviors, providing a more accurate representation of human driving. In addition, I apply reinforcement learning to autonomous driving decision-making, enabling AVs to adaptively drive in traffic.
     design:
       columns: '1'
+  - block: collection
+    id: projects
+    content:
+      # title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: papers
     content:
@@ -76,6 +73,7 @@ sections:
         exclude_featured: false
     design:
       view: Citation
+  
   # - block: collection
   #   id: news
   #   content:
