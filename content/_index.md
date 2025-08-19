@@ -43,13 +43,13 @@ sections:
          I have published multiple papers in leading journals such as Transportation Research Part C and Communications in Transportation Research. My publications have collectively received over **450 citations**.
 
          My contributions span three core areas:
-         # Traffic Flow Theory and Complex Systems
+         ## Traffic Flow Theory and Complex Systems
 
          I develop analytical and data-driven frameworks to capture the stochastic nature of traffic. Notably, my recent studies on the Stochastic Fundamental Diagram (SFD) establish a general micro-macroscopic modeling approach, bridging probabilistic driver interactions with large-scale flow properties.
-         # Autonomous Driving and Its Impacts on Traffic
+         ## Autonomous Driving and Its Impacts on Traffic
 
          I investigate the decision-making, planning, and stability of autonomous vehicles in mixed traffic. My works include deep reinforcement learning–based behavior models, cooperative motion planning at intersections, and hierarchical multi-lane driving frameworks. These studies not only explore how AVs operate individually but also how they influence traffic flow collectively.
-         # Artificial Intelligence in Transportation Research
+         ## Artificial Intelligence in Transportation Research
 
          I apply and advance machine learning techniques to better model and evaluate transportation systems. Specifically, I use deep learning to reproduce and improve car-following and lane-changing behaviors, providing a more accurate representation of human driving. In addition, I apply reinforcement learning to autonomous driving decision-making, enabling AVs to navigate complex traffic scenarios and learn cooperative strategies in simulation environments.
     design:
@@ -58,13 +58,14 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      offset: 0
       filters:
         folders:
           - publication
         featured_only: true
     design:
       view: Showcase
-      columns: 1
+      # columns: 1
   - block: collection
     content:
       title: Recent Publications
