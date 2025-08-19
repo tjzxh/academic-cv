@@ -17,7 +17,7 @@ abstract: Car-following (CF) and lane-changing (LC) behaviors are two basic move
 summary: The hybrid retraining constrained (HRC) LSTM is proposed to model the Car following (CF) and Lane Changing (LC) behaviors simultaneously.
 
 tags:
-  - Artificial Intelligence in Transportation Research
+- Artificial Intelligence in Transportation Research
 
 # Display this page in the Featured widget?
 featured: true
