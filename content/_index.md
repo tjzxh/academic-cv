@@ -40,7 +40,7 @@ sections:
       text: |-
          My research lies at the intersection of traffic flow theory, autonomous driving, and artificial intelligence in transportation systems. I am particularly interested in how microscopic driving behaviors translate into macroscopic traffic dynamics, and how emerging technologies such as autonomous vehicles reshape the complexity of modern mobility systems.
          
-         I have published multiple papers in leading journals such as Transportation Research Part C and Communications in Transportation Research. My publications have collectively received over *450 citations*.
+         I have published multiple papers in leading journals such as Transportation Research Part C and Communications in Transportation Research. My publications have collectively received over **450 citations**.
 
          My contributions span three core areas:
          1. Traffic Flow Theory and Complex Systems
@@ -50,7 +50,7 @@ sections:
          3. Artificial Intelligence in Transportation Research
          I apply and advance machine learning techniques to better model and evaluate transportation systems. Specifically, I use deep learning to reproduce and improve car-following and lane-changing behaviors, providing a more accurate representation of human driving. In addition, I apply reinforcement learning to autonomous driving decision-making, enabling AVs to navigate complex traffic scenarios and learn cooperative strategies in simulation environments.
     design:
-      columns: '8'
+      columns: '1'
   - block: collection
     id: papers
     content:
@@ -61,7 +61,7 @@ sections:
         featured_only: true
     design:
       view: Card
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
@@ -72,35 +72,35 @@ sections:
         exclude_featured: false
     design:
       view: Citation
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
