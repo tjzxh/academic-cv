@@ -51,7 +51,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: Card
+      view: Showcase
       columns: 2
   - block: collection
     content:
