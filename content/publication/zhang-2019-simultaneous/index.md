@@ -11,7 +11,6 @@ publishDate: '2025-08-17T03:16:35.689660Z'
 publication_types:
 - article-journal
 publication: '*Transportation research part C: emerging technologies*'
-
 # Summary. An optional shortened abstract.
 summary: The hybrid retraining constrained (HRC) LSTM is proposed to model the Car following (CF) and Lane Changing (LC) behaviors simultaneously.
 
