@@ -41,7 +41,8 @@ tags:
 - Neural network
 - Numerical experiment
 - String stability
+featured: true
 links:
-- name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0968090X24000469
+- name: Code
+  url: https://github.com/tjzxh/EADC
 ---

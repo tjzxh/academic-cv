@@ -43,7 +43,8 @@ tags:
 - Mixed traffic flow
 - Mixture density network
 - Stochastic fundamental diagram
+featured: true
 links:
-- name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0968090X25002839
+- name: Code
+  url: https://github.com/tjzxh/SFD-modeling-of-mixed-traffic
 ---

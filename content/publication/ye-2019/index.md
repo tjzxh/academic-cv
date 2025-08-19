@@ -32,7 +32,8 @@ tags:
 - Decision making
 - Deep reinforcement learning
 - Reward function
+featured: true
 links:
-- name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0968090X19311301
+- name: Code
+  url: https://github.com/tjzxh/basic-DRL-for-CF-and-LC
 ---

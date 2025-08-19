@@ -42,6 +42,6 @@ tags:
 - Maximum entropy
 - Stochastic fundamental diagram
 links:
-- name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S2772424725000034
+- name: Code
+  url: https://github.com/tjzxh/Stochastic_fundamental_diagram_modeling
 ---

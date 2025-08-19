@@ -35,4 +35,8 @@ tags:
 - Long Short-Term Memory
 - Simultaneous modeling
 - Traffic flow
+featured: true
+links:
+- name: Code
+  url: https://github.com/tjzxh/HRC-LSTM
 ---
