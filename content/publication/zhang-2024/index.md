@@ -1,0 +1,47 @@
+---
+title: 'On the string stability of neural network-based car-following models: A generic
+  analysis framework'
+authors:
+- Xiaohui Zhang
+- Jie Sun
+- Zuduo Zheng
+- Jian Sun
+date: '2024-03-01'
+publishDate: '2025-08-19T01:39:14.155337Z'
+publication_types:
+- article-journal
+publication: '*Transportation Research Part C: Emerging Technologies*'
+doi: 10.1016/j.trc.2024.104525
+abstract: String stability plays a crucial role in regulating traffic flow, as traffic
+  oscillation can be triggered by string instability in the car-following (CF) behavior.
+  Although studies over the past decades have provided various methods for analyzing
+  string stability of analytical CF models, no studies have focused on neural network
+  (NN) based CF models despite the fact that these models have exhibited remarkable
+  performance in learning realistic driving behavior in the recent literature. This
+  paper fills this gap by proposing a generic theoretical framework for analyzing
+  the string stability of NN-based CF models through an Estimation-Approximation-Derivation-Calculation
+  process (referred to as EADC framework). Within the framework, we first estimate
+  the steady states of NN-based CF models by solving the corresponding optimization
+  model and obtain the smooth approximation of the NN-based models for linearization,
+  based on which the transfer function is constructed. We then derive the general
+  stability criteria for two commonly used classes of NN in CF modeling, i.e., feedforward
+  NN-based CF models with basic input and recurrent NN-based CF models with multi-step
+  historical information. The string stability is thus obtained by calculating the
+  partial derivatives through the automatic differentiation method. As two case studies,
+  we apply the proposed stability analysis framework on two typical NN-based CF models,
+  the Mo-MLP model (Mo et al., 2021) and the Huang-LSTM model (Huang et al., 2018),
+  and obtained the complete consistency between the theoretical results and the simulation
+  results for both models, which demonstrates the soundness of the proposed EADC framework.
+  Moreover, we discuss the applicability of the proposed EADC stability analysis framework
+  in the emerging era of connected and autonomous vehicles and artificial intelligence.
+tags:
+- Car-following
+- LSTM
+- MLP
+- Neural network
+- Numerical experiment
+- String stability
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0968090X24000469
+---
