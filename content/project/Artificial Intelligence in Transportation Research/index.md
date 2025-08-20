@@ -16,9 +16,16 @@ I have developed Long Short-Term Memory neural networks that simultaneously mode
 While autonomous vehicle perception has advanced rapidly, decision-making capabilities remain underdeveloped. I address this through a comprehensive framework combining deep reinforcement learning with high-fidelity simulation environments. This enables autonomous vehicles to learn optimal decision strategies that achieve nearly eight percent efficiency improvements over established adaptive cruise control systems while maintaining safety and comfort. Extending to complex multi-lane scenarios, my integrated models achieve additional performance gains by coordinating longitudinal and lateral movements as unified decision processes.
 ### Hierarchical AI Integration
 Recognizing the need for both learning capability and interpretability in safety-critical applications, I have developed hierarchical frameworks that strategically combine reinforcement learning with rule-based methods. Through the concept of Instantaneous Desired Speed as an intermediate action, high-level AI algorithms focus on strategic decisions while low-level systems handle tactical execution. This approach maintains the adaptability of machine learning while preserving the transparency of traditional control systems.
+
 My Traffic Flow Adaptive strategy extends this hierarchical approach to system-level optimization, enabling individually controlled autonomous vehicles to coordinate for improved overall traffic flow. This shift from isolated decision-making to collaborative traffic participation represents a crucial advancement toward practical autonomous vehicle deployment.
 ### Research Impact
 Through rigorous validation using real-world data and comprehensive benchmarking, my research demonstrates that artificial intelligence can create autonomous driving systems that are both more human-like and more efficient than existing approaches. By developing models that integrate multiple driving behaviors, learn from experience, and maintain interpretability, I am establishing the foundation for autonomous vehicles that can operate effectively in mixed traffic environments alongside human drivers. This work contributes directly to the vision of intelligent transportation systems where AI-enabled vehicles enhance both individual mobility and overall traffic system performance.
+### References
+**Zhang, X.**, Sun, J., Qi, X. and Sun, J., 2019. Simultaneous modeling of car-following and lane-changing behaviors using deep learning. Transportation research part C: emerging technologies, 104, pp.287-304.
+
+Ye, Y., **Zhang, X**. and Sun, J., 2019. Automated vehicle’s behavior decision making using deep reinforcement learning and high-fidelity simulation environment. Transportation Research Part C: Emerging Technologies, 107, pp.155-170.
+
+**Zhang, X.**, Sun, J., Wang, Y. and Sun, J., 2023. A hierarchical framework for multi-lane autonomous driving based on reinforcement learning. IEEE Open Journal of Intelligent Transportation Systems, 4, pp.626-638.
 <!-- PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration. -->
 
 <!--more-->

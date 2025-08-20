@@ -21,6 +21,8 @@ The theoretical insights from this work have direct implications for traffic man
 ### Research Impact and Contribution
 My work establishes a new paradigm in traffic flow theory by providing the mathematical tools to analytically connect individual driving behaviors with system-level traffic performance under uncertainty. This bridges a critical gap that has limited the development of robust traffic control strategies and provides a theoretical foundation for understanding complex traffic phenomena. The analytical nature of the framework enables deeper insights into traffic dynamics than purely empirical approaches, while the validation with real-world data ensures practical relevance.
 The Leader-Follower Conditional Distribution framework represents a general analytical tool that can be applied to various traffic scenarios and extended to incorporate different behavioral models. This flexibility, combined with the rigorous mathematical foundation, positions the work as a significant contribution to both theoretical traffic flow research and practical transportation engineering applications.
+### References
+**Zhang, X.**, Sun, J. and Sun, J., 2025. On the stochastic fundamental diagram: A general micro-macroscopic traffic flow modeling framework. Communications in Transportation Research, 5, p.100163.
 <!-- scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license. -->
 
 <!--more-->
