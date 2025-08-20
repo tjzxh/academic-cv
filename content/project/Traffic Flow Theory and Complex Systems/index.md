@@ -8,6 +8,7 @@ tags:
   - Traffic flow
   - Maximum entropy
 ---
+<p align="justify">
 My research in traffic flow theory focuses on bridging the fundamental gap between microscopic driving behaviors and macroscopic traffic flow properties through analytical modeling approaches. The central challenge I address is understanding and quantifying the inherent stochasticity in traffic systems, where individual driver behaviors create uncertainty that propagates through the entire traffic network. Rather than treating traffic flow as deterministic, my work develops mathematical frameworks that explicitly account for the probabilistic nature of driving decisions and their collective impact on system-level performance.
 ### Analytical Micro-Macroscopic Modeling
 Traditional traffic flow models have struggled to connect individual driving behaviors with aggregate traffic patterns in a mathematically rigorous way. I have developed the Leader-Follower Conditional Distribution-based Stochastic Traffic Modeling framework that provides this crucial analytical link. Through probabilistic modeling of leader-follower interactions using Brownian dynamics, I establish a general mathematical representation that encompasses the longitudinal interactions between vehicles while remaining compatible with classical car-following theories.
@@ -22,7 +23,8 @@ The theoretical insights from this work have direct implications for traffic man
 My work establishes a new paradigm in traffic flow theory by providing the mathematical tools to analytically connect individual driving behaviors with system-level traffic performance under uncertainty. This bridges a critical gap that has limited the development of robust traffic control strategies and provides a theoretical foundation for understanding complex traffic phenomena. The analytical nature of the framework enables deeper insights into traffic dynamics than purely empirical approaches, while the validation with real-world data ensures practical relevance.
 The Leader-Follower Conditional Distribution framework represents a general analytical tool that can be applied to various traffic scenarios and extended to incorporate different behavioral models. This flexibility, combined with the rigorous mathematical foundation, positions the work as a significant contribution to both theoretical traffic flow research and practical transportation engineering applications.
 ### References
-**Zhang, X.**, Sun, J. and Sun, J., 2025. On the stochastic fundamental diagram: A general micro-macroscopic traffic flow modeling framework. Communications in Transportation Research, 5, p.100163.
+> **Zhang, X.**, Sun, J. and Sun, J., 2025. On the stochastic fundamental diagram: A general micro-macroscopic traffic flow modeling framework. Communications in Transportation Research, 5, p.100163.
+</p>
 <!-- scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license. -->
 
 <!--more-->
