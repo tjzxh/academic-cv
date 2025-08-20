@@ -25,9 +25,11 @@ My Traffic Flow Adaptive strategy extends this hierarchical approach to system-l
 
 <h3> References</h3>
 <div align="justify">
-<cite> <b>Zhang, X.</b>, Sun, Jie, Qi, X., Sun, Jian, 2019. Simultaneous modeling of car-following and lane-changing behaviors using deep learning. Transportation Research Part C: Emerging Technologies 104, 287–304.<br>  
-Ye, Y.*, <b>Zhang, X.</b>*, Sun, J., 2019. Automated vehicle’s behavior decision making using deep reinforcement learning and high-fidelity simulation environment. Transportation Research Part C: Emerging Technologies 107, 155–170.<br>
-<b>Zhang, X.</b>, Sun, Jie, Wang, Y., Sun, Jian, 2023. A Hierarchical Framework for Multi-Lane Autonomous Driving Based on Reinforcement Learning. IEEE Open Journal of Intelligent Transportation Systems 4, 626–638. 
+<cite> 
+<ul>
+<li><b>Zhang, X.</b>, Sun, Jie, Qi, X., Sun, Jian, 2019. Simultaneous modeling of car-following and lane-changing behaviors using deep learning. Transportation Research Part C: Emerging Technologies 104, 287–304.</li>  
+<li>Ye, Y.*, <b>Zhang, X.</b>*, Sun, J., 2019. Automated vehicle’s behavior decision making using deep reinforcement learning and high-fidelity simulation environment. Transportation Research Part C: Emerging Technologies 107, 155–170.</li>
+<li><b>Zhang, X.</b>, Sun, Jie, Wang, Y., Sun, Jian, 2023. A Hierarchical Framework for Multi-Lane Autonomous Driving Based on Reinforcement Learning. IEEE Open Journal of Intelligent Transportation Systems 4, 626–638.</li></ul> 
 </cite>
 </div>
 <!-- PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration. -->

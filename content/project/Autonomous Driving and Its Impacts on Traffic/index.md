@@ -21,8 +21,11 @@ tags:
 
 <h3> References</h3>
 <div align="justify">
-<cite> <b>Zhang, X.</b>, Sun, Jie, Zheng, Z., Sun, Jian, 2024. On the string stability of neural network-based car-following models: A generic analysis framework. Transportation Research Part C: Emerging Technologies 160, 104525.<br> 
-<b>Zhang, X.</b>, Yang, K., Sun, Jie, Sun, Jian, 2025. Stochastic fundamental diagram modeling of mixed traffic flow: A data-driven approach. Transportation Research Part C: Emerging Technologies 179, 105279. 
+<cite> 
+<ul>
+<li><b>Zhang, X.</b>, Sun, Jie, Zheng, Z., Sun, Jian, 2024. On the string stability of neural network-based car-following models: A generic analysis framework. Transportation Research Part C: Emerging Technologies 160, 104525.</li> 
+<li><b>Zhang, X.</b>, Yang, K., Sun, Jie, Sun, Jian, 2025. Stochastic fundamental diagram modeling of mixed traffic flow: A data-driven approach. Transportation Research Part C: Emerging Technologies 179, 105279.</li>
+</ul>
 </cite>
 </div>
 <!-- Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures. -->
