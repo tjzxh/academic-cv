@@ -51,21 +51,21 @@ sections:
     design:
       view: article-grid
       columns: 3
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     offset: 0
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: Compact
+  #     # columns: 1
   - block: collection
-    id: papers
     content:
-      title: Featured Publications
-      offset: 0
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: Compact
-      # columns: 1
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       count: 10
       text: ""
       filters:
