@@ -40,7 +40,7 @@ sections:
       text: |-        
         I have published multiple papers in leading journals such as **Transportation Research Part C** and **Communications in Transportation Research**. My publications have collectively received over **450 citations**.
     design:
-      columns: '1'
+      columns: 1
   - block: collection
     id: projects
     content:
@@ -66,6 +66,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
+      count: 10
       text: ""
       filters:
         folders:
