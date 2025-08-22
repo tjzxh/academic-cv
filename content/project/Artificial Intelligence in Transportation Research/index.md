@@ -19,6 +19,7 @@ tags:
 <h3> Reinforcement Learning for Decision-Making</h3>
 <img src="basic_DRL.jpg" alt="DRL-based decision making">
 <div align="justify">While autonomous vehicle perception has advanced rapidly, decision-making capabilities remain underdeveloped. I address this through a comprehensive framework combining deep reinforcement learning with high-fidelity simulation environments. This enables autonomous vehicles to learn optimal decision strategies that achieve nearly eight percent efficiency improvements over established adaptive cruise control systems while maintaining safety and comfort. Extending to complex multi-lane scenarios, my integrated models achieve additional performance gains by coordinating longitudinal and lateral movements as unified decision processes.</div>
+<img src="DRL_result.jpg" alt="DRL-based decision making">
 
 <h3> Hierarchical AI Integration</h3>
 <img src="TFA_DRL.svg" alt="Hierarchical DRL with rule-based models for AV decision-making">

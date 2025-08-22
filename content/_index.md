@@ -15,7 +15,7 @@ sections:
       username: admin
       title: About Me
       text: |-
-         I am passionate about advancing AI in transportation, studying the driving behavior of AI-driven autonomous vehicles, their interactions with human drivers, and the resulting impacts on traffic flow and system-level dynamics.
+         I am passionate about advancing AI in transportation, and studying the driving behavior of AI-driven autonomous vehicles, their interactions with human drivers, and the resulting impacts on system-level traffic flow dynamics.
       # # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
@@ -35,7 +35,7 @@ sections:
           text_color_light: true
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-        
         I have published multiple papers in leading journals such as **Transportation Research Part C** and **Communications in Transportation Research**. My publications have collectively received over **450 citations**.
