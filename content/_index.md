@@ -15,7 +15,7 @@ sections:
       username: admin
       title: About Me
       text: |-
-         I am passionate about exploring how emerging technologies such as autonomous vehicles are reshaping the complexity of modern mobility systems, and how these individual driving behaviors scale up to influence traffic dynamics.
+         I am passionate about advancing AI in transportation, studying the driving behavior of AI-driven autonomous vehicles, their interactions with human drivers, and the resulting impacts on traffic flow and system-level dynamics.
       # # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
