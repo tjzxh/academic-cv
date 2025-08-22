@@ -12,14 +12,18 @@ tags:
 
 <h3> Integrated Behavior Modeling Through Deep Learning</h3>
 <img src="HRC_LSTM.png" alt="HRC-LSTM for reproducing human trajectory">
-<div align="justify">I have developed Long Short-Term Memory neural networks that simultaneously model car-following and lane-changing behaviors by observing only the positions of surrounding vehicles. This represents a fundamental shift from conventional approaches that model these behaviors separately. The LSTM architecture automatically extracts relevant features and captures the temporal dynamics of traffic interactions, while my Hybrid Retraining Constrained training method further optimizes performance. Validation with real-world trajectory data demonstrates superior accuracy compared to classical models and excellent transferability across different traffic environments.</div>
+<div align="justify">I have developed Long Short-Term Memory neural networks that simultaneously model car-following and lane-changing behaviors by observing only the positions of surrounding vehicles. This represents a fundamental shift from conventional approaches that model these behaviors separately. The LSTM architecture automatically extracts relevant features and captures the temporal dynamics of traffic interactions, while my Hybrid Retraining Constrained training method further optimizes performance.<br>
 <img src="HRC_result1.png" alt="Result 1">
 <img src="HRC_result2.png" alt="Results 2">
+Validation with real-world trajectory data demonstrates superior accuracy compared to classical models and excellent transferability across different traffic environments.</div>
+
 
 <h3> Reinforcement Learning for Decision-Making</h3>
 <img src="basic_DRL.jpg" alt="DRL-based decision making">
-<div align="justify">While autonomous vehicle perception has advanced rapidly, decision-making capabilities remain underdeveloped. I address this through a comprehensive framework combining deep reinforcement learning with high-fidelity simulation environments. This enables autonomous vehicles to learn optimal decision strategies that achieve nearly eight percent efficiency improvements over established adaptive cruise control systems while maintaining safety and comfort. Extending to complex multi-lane scenarios, my integrated models achieve additional performance gains by coordinating longitudinal and lateral movements as unified decision processes.</div>
+<div align="justify">While autonomous vehicle perception has advanced rapidly, decision-making capabilities remain underdeveloped. I address this through a comprehensive framework combining deep reinforcement learning with high-fidelity simulation environments. This enables autonomous vehicles to learn optimal decision strategies that achieve nearly eight percent efficiency improvements over established adaptive cruise control systems while maintaining safety and comfort.<br>
 <img src="DRL_result.jpg" alt="DRL-based decision making">
+Extending to complex multi-lane scenarios, my integrated models achieve additional performance gains by coordinating longitudinal and lateral movements as unified decision processes.</div>
+
 
 <h3> Hierarchical AI Integration</h3>
 <img src="TFA_DRL.svg" alt="Hierarchical DRL with rule-based models for AV decision-making">
