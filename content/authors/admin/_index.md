@@ -40,7 +40,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8613-076X
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: uploads/Xiaohui_Resume.pdf
 
 
 interests:
