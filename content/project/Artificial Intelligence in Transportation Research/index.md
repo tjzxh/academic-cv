@@ -13,6 +13,8 @@ tags:
 <h3> Integrated Behavior Modeling Through Deep Learning</h3>
 <img src="HRC_LSTM.png" alt="HRC-LSTM for reproducing human trajectory">
 <div align="justify">I have developed Long Short-Term Memory neural networks that simultaneously model car-following and lane-changing behaviors by observing only the positions of surrounding vehicles. This represents a fundamental shift from conventional approaches that model these behaviors separately. The LSTM architecture automatically extracts relevant features and captures the temporal dynamics of traffic interactions, while my Hybrid Retraining Constrained training method further optimizes performance. Validation with real-world trajectory data demonstrates superior accuracy compared to classical models and excellent transferability across different traffic environments.</div>
+<img src="HRC_result1.png" alt="Result 1">
+<img src="HRC_result2.png" alt="Results 2">
 
 <h3> Reinforcement Learning for Decision-Making</h3>
 <img src="basic_DRL.jpg" alt="DRL-based decision making">
@@ -21,6 +23,7 @@ tags:
 <h3> Hierarchical AI Integration</h3>
 <img src="TFA_DRL.svg" alt="Hierarchical DRL with rule-based models for AV decision-making">
 <div align="justify">Recognizing the need for both learning capability and interpretability in safety-critical applications, I have developed hierarchical frameworks that strategically combine reinforcement learning with rule-based methods. Through the concept of Instantaneous Desired Speed as an intermediate action, high-level AI algorithms focus on strategic decisions while low-level systems handle tactical execution. This approach maintains the adaptability of machine learning while preserving the transparency of traditional control systems.<br>
+<img src="TFA_results.svg" alt="Results of TFA strategy">
 My Traffic Flow Adaptive strategy extends this hierarchical approach to system-level optimization, enabling individually controlled autonomous vehicles to coordinate for improved overall traffic flow. This shift from isolated decision-making to collaborative traffic participation represents a crucial advancement toward practical autonomous vehicle deployment.</div>
 
 <h3> Research Impact</h3>
