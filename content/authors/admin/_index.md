@@ -44,8 +44,8 @@ profiles:
 
 
 interests:
-  - Autonomous driving's impacts on traffic
-  - Artificial Intelligence in Transportation
+  - Autonomous driving
+  - AI in Transportation Research
   - Stochastic Traffic flow theory
 
 
