@@ -21,7 +21,7 @@ Validated on representative NN-based models, the framework demonstrates consiste
 <h3> Stochastic Fundamental Diagram modeling for mixed traffic</h3>
 <img src="Mixed_SFD.svg" alt="A data-driven framework for stochastic fundamental diagram modeling of mixed traffic">
 <div align="justify">The second line of work focuses on the <b>Stochastic Fundamental Diagram (SFD) for mixed traffic</b>. Current AV impact studies often oversimplify traffic dynamics or ignore stochasticity, limiting their realism. To overcome this, I proposed a data-driven probabilistic modeling framework that learns car-following interactions for all leader–follower types (AV–AV, AV–HV, HV–AV, HV–HV) using mixture density networks. By modeling platoons as Markov chains, the framework derives the SFD from trajectory data, validated against NGSIM and Waymo datasets.<br>
-<div align="justify">
+<div style="text-align: center;">
 <img src="Waymo_SFD_metric.svg" alt="The SFD of mixed traffic using Waymo dataset">
 </div>
 Results show that higher AV penetration decreases mean capacity and critical density while reducing capacity uncertainty, highlighting the conservative yet stabilizing effects of current AVs.</div>

@@ -1,5 +1,5 @@
 ---
-title: Traffic Flow Theory
+title: Stochastic Traffic Flow Theory
 summary: Develop an analytical micro–macroscopic modeling approach that bridges stochastic driving behaviors and traffic flow properties (the Stochastic Fundamental Diagram).
 date: 2022-09-01
 # external_link: https://github.com/scikit-learn/scikit-learn
